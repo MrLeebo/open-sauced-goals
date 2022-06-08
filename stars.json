@@ -1,9 +1,9 @@
 [
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 17004,
-    "open_issues_count": 301,
-    "forks_count": 1335
+    "stargazers_count": 17025,
+    "open_issues_count": 300,
+    "forks_count": 1338
   },
   {
     "full_name": "KabaLabs/Cypress-Recorder",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 5148,
+    "stargazers_count": 5150,
     "open_issues_count": 88,
     "forks_count": 276
   },
   {
     "full_name": "sergiodxa/remix-utils",
-    "stargazers_count": 661,
+    "stargazers_count": 663,
     "open_issues_count": 7,
     "forks_count": 35
   },
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 39413,
-    "open_issues_count": 794,
-    "forks_count": 27349
+    "stargazers_count": 39438,
+    "open_issues_count": 791,
+    "forks_count": 27352
   },
   {
     "full_name": "Skn0tt/rtw",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "Chevrotain/chevrotain",
-    "stargazers_count": 1926,
+    "stargazers_count": 1927,
     "open_issues_count": 59,
     "forks_count": 175
   },
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "naptha/tesseract.js",
-    "stargazers_count": 26969,
+    "stargazers_count": 26979,
     "open_issues_count": 132,
     "forks_count": 1817
   },
   {
     "full_name": "cypress-io/cypress",
-    "stargazers_count": 38738,
-    "open_issues_count": 2554,
-    "forks_count": 2371
+    "stargazers_count": 38771,
+    "open_issues_count": 2566,
+    "forks_count": 2374
   },
   {
     "full_name": "tailwindlabs/tailwindcss-typography",
     "stargazers_count": 2809,
     "open_issues_count": 6,
-    "forks_count": 193
+    "forks_count": 194
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 87688,
-    "open_issues_count": 1210,
-    "forks_count": 18653
+    "stargazers_count": 87729,
+    "open_issues_count": 1214,
+    "forks_count": 18677
   },
   {
     "full_name": "Studiosity/grover",
@@ -127,14 +127,14 @@
   },
   {
     "full_name": "blitz-js/blitz",
-    "stargazers_count": 11400,
-    "open_issues_count": 221,
-    "forks_count": 661
+    "stargazers_count": 11403,
+    "open_issues_count": 213,
+    "forks_count": 663
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 17475,
-    "open_issues_count": 29,
+    "stargazers_count": 17497,
+    "open_issues_count": 30,
     "forks_count": 500
   },
   {
@@ -145,13 +145,13 @@
   },
   {
     "full_name": "muldjord/skyscraper",
-    "stargazers_count": 368,
+    "stargazers_count": 369,
     "open_issues_count": 28,
     "forks_count": 101
   },
   {
     "full_name": "vadimdemedes/ink",
-    "stargazers_count": 18497,
+    "stargazers_count": 18506,
     "open_issues_count": 80,
     "forks_count": 503
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "palantir/blueprint",
-    "stargazers_count": 18991,
-    "open_issues_count": 659,
-    "forks_count": 2006
+    "stargazers_count": 19001,
+    "open_issues_count": 656,
+    "forks_count": 2007
   },
   {
     "full_name": "tannerlinsley/use-react-hooks",
