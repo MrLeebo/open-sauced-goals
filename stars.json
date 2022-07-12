@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "MrLeebo/wordle-solver",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "remix-run/remix",
-    "stargazers_count": 17882,
-    "open_issues_count": 316,
-    "forks_count": 1402
+    "stargazers_count": 17934,
+    "open_issues_count": 306,
+    "forks_count": 1407
   },
   {
     "full_name": "KabaLabs/Cypress-Recorder",
-    "stargazers_count": 564,
+    "stargazers_count": 566,
     "open_issues_count": 17,
     "forks_count": 73
   },
@@ -25,21 +31,15 @@
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 5245,
-    "open_issues_count": 92,
+    "stargazers_count": 5254,
+    "open_issues_count": 93,
     "forks_count": 281
   },
   {
     "full_name": "sergiodxa/remix-utils",
-    "stargazers_count": 730,
+    "stargazers_count": 736,
     "open_issues_count": 9,
-    "forks_count": 38
-  },
-  {
-    "full_name": "MrLeebo/wordle-solver",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 39
   },
   {
     "full_name": "MrLeebo/dnd-5e",
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "feross/clipboard-copy",
-    "stargazers_count": 556,
+    "stargazers_count": 557,
     "open_issues_count": 6,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 39849,
-    "open_issues_count": 799,
-    "forks_count": 27542
+    "stargazers_count": 39881,
+    "open_issues_count": 805,
+    "forks_count": 27548
   },
   {
     "full_name": "Skn0tt/rtw",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "Chevrotain/chevrotain",
-    "stargazers_count": 1954,
-    "open_issues_count": 45,
+    "stargazers_count": 1955,
+    "open_issues_count": 47,
     "forks_count": 176
   },
   {
@@ -91,51 +91,51 @@
   },
   {
     "full_name": "naptha/tesseract.js",
-    "stargazers_count": 27144,
-    "open_issues_count": 137,
-    "forks_count": 1833
+    "stargazers_count": 27161,
+    "open_issues_count": 138,
+    "forks_count": 1835
   },
   {
     "full_name": "cypress-io/cypress",
-    "stargazers_count": 39394,
-    "open_issues_count": 2699,
-    "forks_count": 2449
+    "stargazers_count": 39420,
+    "open_issues_count": 2674,
+    "forks_count": 2451
   },
   {
     "full_name": "tailwindlabs/tailwindcss-typography",
-    "stargazers_count": 2835,
-    "open_issues_count": 5,
-    "forks_count": 197
+    "stargazers_count": 2837,
+    "open_issues_count": 7,
+    "forks_count": 196
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 89302,
-    "open_issues_count": 1250,
-    "forks_count": 19175
+    "stargazers_count": 89425,
+    "open_issues_count": 1257,
+    "forks_count": 19212
   },
   {
     "full_name": "Studiosity/grover",
-    "stargazers_count": 404,
+    "stargazers_count": 405,
     "open_issues_count": 13,
     "forks_count": 55
   },
   {
     "full_name": "btmills/geopattern",
-    "stargazers_count": 1735,
+    "stargazers_count": 1737,
     "open_issues_count": 3,
     "forks_count": 213
   },
   {
     "full_name": "blitz-js/blitz",
-    "stargazers_count": 11576,
-    "open_issues_count": 165,
-    "forks_count": 666
+    "stargazers_count": 11586,
+    "open_issues_count": 160,
+    "forks_count": 668
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 19066,
-    "open_issues_count": 45,
-    "forks_count": 548
+    "stargazers_count": 19195,
+    "open_issues_count": 46,
+    "forks_count": 550
   },
   {
     "full_name": "Gusto/apollo-federation-ruby",
@@ -151,8 +151,8 @@
   },
   {
     "full_name": "vadimdemedes/ink",
-    "stargazers_count": 18726,
-    "open_issues_count": 85,
+    "stargazers_count": 18730,
+    "open_issues_count": 86,
     "forks_count": 512
   },
   {
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "palantir/blueprint",
-    "stargazers_count": 19106,
-    "open_issues_count": 662,
+    "stargazers_count": 19109,
+    "open_issues_count": 667,
     "forks_count": 2026
   },
   {
