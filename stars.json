@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "shakacode/react_on_rails",
+    "stargazers_count": 4880,
+    "open_issues_count": 29,
+    "forks_count": 616
+  },
+  {
     "full_name": "MrLeebo/wordle-solver",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -7,13 +13,13 @@
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 18546,
-    "open_issues_count": 299,
-    "forks_count": 1464
+    "stargazers_count": 18614,
+    "open_issues_count": 306,
+    "forks_count": 1473
   },
   {
     "full_name": "KabaLabs/Cypress-Recorder",
-    "stargazers_count": 574,
+    "stargazers_count": 575,
     "open_issues_count": 18,
     "forks_count": 74
   },
@@ -31,13 +37,13 @@
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 5343,
-    "open_issues_count": 94,
-    "forks_count": 290
+    "stargazers_count": 5347,
+    "open_issues_count": 95,
+    "forks_count": 292
   },
   {
     "full_name": "sergiodxa/remix-utils",
-    "stargazers_count": 779,
+    "stargazers_count": 786,
     "open_issues_count": 10,
     "forks_count": 42
   },
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 40199,
-    "open_issues_count": 848,
-    "forks_count": 27687
+    "stargazers_count": 40246,
+    "open_issues_count": 825,
+    "forks_count": 27696
   },
   {
     "full_name": "Skn0tt/rtw",
@@ -73,13 +79,13 @@
   },
   {
     "full_name": "MrLeebo/prisma-ast",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "Chevrotain/chevrotain",
-    "stargazers_count": 1965,
+    "stargazers_count": 1969,
     "open_issues_count": 47,
     "forks_count": 176
   },
@@ -91,32 +97,32 @@
   },
   {
     "full_name": "naptha/tesseract.js",
-    "stargazers_count": 27278,
-    "open_issues_count": 144,
-    "forks_count": 1850
+    "stargazers_count": 27294,
+    "open_issues_count": 134,
+    "forks_count": 1851
   },
   {
     "full_name": "cypress-io/cypress",
-    "stargazers_count": 39740,
-    "open_issues_count": 2712,
-    "forks_count": 2482
+    "stargazers_count": 39794,
+    "open_issues_count": 2746,
+    "forks_count": 2485
   },
   {
     "full_name": "tailwindlabs/tailwindcss-typography",
-    "stargazers_count": 2858,
+    "stargazers_count": 2860,
     "open_issues_count": 4,
-    "forks_count": 199
+    "forks_count": 198
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 90613,
-    "open_issues_count": 1314,
-    "forks_count": 19585
+    "stargazers_count": 90782,
+    "open_issues_count": 1262,
+    "forks_count": 19641
   },
   {
     "full_name": "Studiosity/grover",
-    "stargazers_count": 442,
-    "open_issues_count": 14,
+    "stargazers_count": 485,
+    "open_issues_count": 15,
     "forks_count": 56
   },
   {
@@ -127,15 +133,15 @@
   },
   {
     "full_name": "blitz-js/blitz",
-    "stargazers_count": 11703,
-    "open_issues_count": 174,
-    "forks_count": 678
+    "stargazers_count": 11721,
+    "open_issues_count": 172,
+    "forks_count": 682
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 20170,
+    "stargazers_count": 20276,
     "open_issues_count": 20,
-    "forks_count": 584
+    "forks_count": 589
   },
   {
     "full_name": "Gusto/apollo-federation-ruby",
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "vadimdemedes/ink",
-    "stargazers_count": 18878,
+    "stargazers_count": 18905,
     "open_issues_count": 84,
-    "forks_count": 511
+    "forks_count": 513
   },
   {
     "full_name": "ReactQuantum/ReactQuantum",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "palantir/blueprint",
-    "stargazers_count": 19175,
-    "open_issues_count": 671,
-    "forks_count": 2031
+    "stargazers_count": 19183,
+    "open_issues_count": 670,
+    "forks_count": 2035
   },
   {
     "full_name": "tannerlinsley/use-react-hooks",
     "stargazers_count": 80,
     "open_issues_count": 4,
     "forks_count": 4
-  },
-  {
-    "full_name": "reactjs/react-chartjs",
-    "stargazers_count": 2951,
-    "open_issues_count": 73,
-    "forks_count": 321
   }
 ]
