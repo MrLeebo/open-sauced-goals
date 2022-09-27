@@ -1,51 +1,51 @@
 [
   {
     "full_name": "smeijer/next-runtime",
-    "stargazers_count": 556,
+    "stargazers_count": 557,
     "open_issues_count": 11,
     "forks_count": 17
   },
   {
     "full_name": "netlify/next-runtime",
     "stargazers_count": 412,
-    "open_issues_count": 54,
+    "open_issues_count": 53,
     "forks_count": 69
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 2166,
-    "open_issues_count": 49,
-    "forks_count": 164
+    "stargazers_count": 2176,
+    "open_issues_count": 51,
+    "forks_count": 166
   },
   {
     "full_name": "Starcounter-Jack/JSON-Patch",
-    "stargazers_count": 1555,
+    "stargazers_count": 1557,
     "open_issues_count": 58,
     "forks_count": 195
   },
   {
     "full_name": "OWASP/www-project-kubernetes-top-ten",
-    "stargazers_count": 333,
+    "stargazers_count": 335,
     "open_issues_count": 5,
-    "forks_count": 46
+    "forks_count": 48
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 33309,
-    "open_issues_count": 315,
-    "forks_count": 908
+    "stargazers_count": 33377,
+    "open_issues_count": 316,
+    "forks_count": 909
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 13183,
-    "open_issues_count": 71,
-    "forks_count": 409
+    "stargazers_count": 13321,
+    "open_issues_count": 69,
+    "forks_count": 411
   },
   {
     "full_name": "sindresorhus/type-fest",
-    "stargazers_count": 8852,
-    "open_issues_count": 109,
-    "forks_count": 312
+    "stargazers_count": 8887,
+    "open_issues_count": 111,
+    "forks_count": 314
   },
   {
     "full_name": "coryhouse/switchboard",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "shakacode/react_on_rails",
-    "stargazers_count": 4898,
-    "open_issues_count": 29,
-    "forks_count": 615
+    "stargazers_count": 4900,
+    "open_issues_count": 30,
+    "forks_count": 613
   },
   {
     "full_name": "MrLeebo/wordle-solver",
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 19314,
+    "stargazers_count": 19373,
     "open_issues_count": 311,
-    "forks_count": 1558
+    "forks_count": 1568
   },
   {
     "full_name": "KabaLabs/Cypress-Recorder",
-    "stargazers_count": 592,
+    "stargazers_count": 593,
     "open_issues_count": 18,
     "forks_count": 75
   },
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 5550,
+    "stargazers_count": 5558,
     "open_issues_count": 96,
-    "forks_count": 303
+    "forks_count": 304
   },
   {
     "full_name": "sergiodxa/remix-utils",
-    "stargazers_count": 864,
+    "stargazers_count": 866,
     "open_issues_count": 5,
     "forks_count": 44
   },
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 40879,
-    "open_issues_count": 853,
-    "forks_count": 27961
+    "stargazers_count": 40927,
+    "open_issues_count": 836,
+    "forks_count": 27981
   },
   {
     "full_name": "Skn0tt/rtw",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "naptha/tesseract.js",
-    "stargazers_count": 27504,
+    "stargazers_count": 27795,
     "open_issues_count": 60,
-    "forks_count": 1869
+    "forks_count": 1877
   },
   {
     "full_name": "cypress-io/cypress",
-    "stargazers_count": 40601,
-    "open_issues_count": 2819,
-    "forks_count": 2537
+    "stargazers_count": 40631,
+    "open_issues_count": 2812,
+    "forks_count": 2536
   },
   {
     "full_name": "tailwindlabs/tailwindcss-typography",
-    "stargazers_count": 2891,
+    "stargazers_count": 2894,
     "open_issues_count": 4,
     "forks_count": 205
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 92962,
-    "open_issues_count": 1375,
-    "forks_count": 20352
+    "stargazers_count": 93119,
+    "open_issues_count": 1387,
+    "forks_count": 20406
   },
   {
     "full_name": "Studiosity/grover",
     "stargazers_count": 533,
-    "open_issues_count": 14,
-    "forks_count": 58
+    "open_issues_count": 15,
+    "forks_count": 59
   }
 ]
