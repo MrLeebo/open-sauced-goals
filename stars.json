@@ -7,20 +7,20 @@
   },
   {
     "full_name": "netlify/next-runtime",
-    "stargazers_count": 411,
-    "open_issues_count": 50,
+    "stargazers_count": 410,
+    "open_issues_count": 49,
     "forks_count": 70
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 2192,
-    "open_issues_count": 48,
-    "forks_count": 169
+    "stargazers_count": 2206,
+    "open_issues_count": 50,
+    "forks_count": 171
   },
   {
     "full_name": "Starcounter-Jack/JSON-Patch",
     "stargazers_count": 1559,
-    "open_issues_count": 58,
+    "open_issues_count": 59,
     "forks_count": 197
   },
   {
@@ -31,20 +31,20 @@
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 33452,
-    "open_issues_count": 316,
-    "forks_count": 914
+    "stargazers_count": 33482,
+    "open_issues_count": 319,
+    "forks_count": 915
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 13582,
-    "open_issues_count": 81,
-    "forks_count": 420
+    "stargazers_count": 13659,
+    "open_issues_count": 75,
+    "forks_count": 423
   },
   {
     "full_name": "sindresorhus/type-fest",
-    "stargazers_count": 8941,
-    "open_issues_count": 115,
+    "stargazers_count": 8964,
+    "open_issues_count": 116,
     "forks_count": 320
   },
   {
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 19485,
-    "open_issues_count": 320,
-    "forks_count": 1577
+    "stargazers_count": 19546,
+    "open_issues_count": 331,
+    "forks_count": 1583
   },
   {
     "full_name": "KabaLabs/Cypress-Recorder",
-    "stargazers_count": 594,
+    "stargazers_count": 595,
     "open_issues_count": 18,
     "forks_count": 75
   },
@@ -86,18 +86,18 @@
   {
     "full_name": "customink/lamby",
     "stargazers_count": 460,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 21
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 5579,
+    "stargazers_count": 5589,
     "open_issues_count": 99,
-    "forks_count": 304
+    "forks_count": 305
   },
   {
     "full_name": "sergiodxa/remix-utils",
-    "stargazers_count": 873,
+    "stargazers_count": 875,
     "open_issues_count": 5,
     "forks_count": 44
   },
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "mastilver/dynamic-cdn-webpack-plugin",
-    "stargazers_count": 334,
+    "stargazers_count": 335,
     "open_issues_count": 20,
     "forks_count": 37
   },
   {
     "full_name": "feross/clipboard-copy",
-    "stargazers_count": 562,
+    "stargazers_count": 563,
     "open_issues_count": 6,
     "forks_count": 40
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 41038,
-    "open_issues_count": 863,
-    "forks_count": 28028
+    "stargazers_count": 41078,
+    "open_issues_count": 852,
+    "forks_count": 28044
   },
   {
     "full_name": "Skn0tt/rtw",
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "MrLeebo/prisma-ast",
-    "stargazers_count": 56,
+    "stargazers_count": 57,
     "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "Chevrotain/chevrotain",
-    "stargazers_count": 2019,
+    "stargazers_count": 2022,
     "open_issues_count": 49,
     "forks_count": 183
   },
@@ -151,31 +151,31 @@
   },
   {
     "full_name": "naptha/tesseract.js",
-    "stargazers_count": 28103,
-    "open_issues_count": 61,
-    "forks_count": 1885
+    "stargazers_count": 28127,
+    "open_issues_count": 62,
+    "forks_count": 1886
   },
   {
     "full_name": "cypress-io/cypress",
-    "stargazers_count": 41012,
-    "open_issues_count": 2821,
-    "forks_count": 2562
+    "stargazers_count": 41071,
+    "open_issues_count": 2795,
+    "forks_count": 2566
   },
   {
     "full_name": "tailwindlabs/tailwindcss-typography",
-    "stargazers_count": 2902,
+    "stargazers_count": 2907,
     "open_issues_count": 4,
     "forks_count": 206
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 93386,
-    "open_issues_count": 1352,
-    "forks_count": 20491
+    "stargazers_count": 93534,
+    "open_issues_count": 1351,
+    "forks_count": 20550
   },
   {
     "full_name": "Studiosity/grover",
-    "stargazers_count": 534,
+    "stargazers_count": 536,
     "open_issues_count": 16,
     "forks_count": 59
   }
