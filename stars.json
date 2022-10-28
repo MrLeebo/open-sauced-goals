@@ -1,51 +1,57 @@
 [
   {
+    "full_name": "t3-oss/create-t3-app",
+    "stargazers_count": 8445,
+    "open_issues_count": 12,
+    "forks_count": 352
+  },
+  {
     "full_name": "smeijer/next-runtime",
-    "stargazers_count": 557,
+    "stargazers_count": 560,
     "open_issues_count": 12,
     "forks_count": 18
   },
   {
     "full_name": "netlify/next-runtime",
     "stargazers_count": 414,
-    "open_issues_count": 51,
+    "open_issues_count": 47,
     "forks_count": 74
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 2271,
-    "open_issues_count": 55,
-    "forks_count": 175
+    "stargazers_count": 2283,
+    "open_issues_count": 56,
+    "forks_count": 176
   },
   {
     "full_name": "Starcounter-Jack/JSON-Patch",
-    "stargazers_count": 1569,
+    "stargazers_count": 1570,
     "open_issues_count": 59,
     "forks_count": 199
   },
   {
     "full_name": "OWASP/www-project-kubernetes-top-ten",
-    "stargazers_count": 370,
+    "stargazers_count": 380,
     "open_issues_count": 2,
-    "forks_count": 49
+    "forks_count": 50
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 33674,
-    "open_issues_count": 327,
-    "forks_count": 917
+    "stargazers_count": 33720,
+    "open_issues_count": 332,
+    "forks_count": 919
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 14316,
-    "open_issues_count": 70,
-    "forks_count": 450
+    "stargazers_count": 14465,
+    "open_issues_count": 72,
+    "forks_count": 457
   },
   {
     "full_name": "sindresorhus/type-fest",
-    "stargazers_count": 9135,
-    "open_issues_count": 119,
-    "forks_count": 332
+    "stargazers_count": 9164,
+    "open_issues_count": 121,
+    "forks_count": 333
   },
   {
     "full_name": "coryhouse/switchboard",
@@ -55,8 +61,8 @@
   },
   {
     "full_name": "shakacode/react_on_rails",
-    "stargazers_count": 4909,
-    "open_issues_count": 32,
+    "stargazers_count": 4914,
+    "open_issues_count": 28,
     "forks_count": 615
   },
   {
@@ -67,37 +73,37 @@
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 19879,
-    "open_issues_count": 333,
-    "forks_count": 1595
+    "stargazers_count": 19955,
+    "open_issues_count": 335,
+    "forks_count": 1599
   },
   {
     "full_name": "KabaLabs/Cypress-Recorder",
-    "stargazers_count": 596,
+    "stargazers_count": 597,
     "open_issues_count": 19,
     "forks_count": 76
   },
   {
     "full_name": "customink/lambdakiq",
-    "stargazers_count": 131,
+    "stargazers_count": 132,
     "open_issues_count": 3,
     "forks_count": 5
   },
   {
     "full_name": "customink/lamby",
-    "stargazers_count": 464,
+    "stargazers_count": 466,
     "open_issues_count": 14,
     "forks_count": 21
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 5684,
-    "open_issues_count": 104,
+    "stargazers_count": 5697,
+    "open_issues_count": 105,
     "forks_count": 310
   },
   {
     "full_name": "sergiodxa/remix-utils",
-    "stargazers_count": 903,
+    "stargazers_count": 912,
     "open_issues_count": 3,
     "forks_count": 45
   },
@@ -115,15 +121,15 @@
   },
   {
     "full_name": "feross/clipboard-copy",
-    "stargazers_count": 563,
+    "stargazers_count": 564,
     "open_issues_count": 6,
     "forks_count": 40
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 41295,
-    "open_issues_count": 895,
-    "forks_count": 28156
+    "stargazers_count": 41342,
+    "open_issues_count": 900,
+    "forks_count": 28174
   },
   {
     "full_name": "Skn0tt/rtw",
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "Chevrotain/chevrotain",
-    "stargazers_count": 2026,
+    "stargazers_count": 2029,
     "open_issues_count": 53,
     "forks_count": 184
   },
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "naptha/tesseract.js",
-    "stargazers_count": 28313,
+    "stargazers_count": 28388,
     "open_issues_count": 58,
-    "forks_count": 1907
+    "forks_count": 1911
   },
   {
     "full_name": "cypress-io/cypress",
-    "stargazers_count": 41284,
-    "open_issues_count": 2833,
-    "forks_count": 2594
+    "stargazers_count": 41316,
+    "open_issues_count": 2842,
+    "forks_count": 2596
   },
   {
     "full_name": "tailwindlabs/tailwindcss-typography",
-    "stargazers_count": 2923,
+    "stargazers_count": 2925,
     "open_issues_count": 5,
-    "forks_count": 206
+    "forks_count": 207
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 94283,
-    "open_issues_count": 1376,
-    "forks_count": 20768
-  },
-  {
-    "full_name": "Studiosity/grover",
-    "stargazers_count": 544,
-    "open_issues_count": 17,
-    "forks_count": 59
+    "stargazers_count": 94891,
+    "open_issues_count": 1435,
+    "forks_count": 20850
   }
 ]
