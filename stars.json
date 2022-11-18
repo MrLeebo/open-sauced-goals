@@ -1,9 +1,9 @@
 [
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 9065,
-    "open_issues_count": 10,
-    "forks_count": 379
+    "stargazers_count": 9599,
+    "open_issues_count": 25,
+    "forks_count": 395
   },
   {
     "full_name": "smeijer/next-runtime",
@@ -13,45 +13,45 @@
   },
   {
     "full_name": "netlify/next-runtime",
-    "stargazers_count": 418,
-    "open_issues_count": 50,
-    "forks_count": 75
+    "stargazers_count": 426,
+    "open_issues_count": 54,
+    "forks_count": 76
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 2340,
-    "open_issues_count": 26,
-    "forks_count": 179
+    "stargazers_count": 2352,
+    "open_issues_count": 31,
+    "forks_count": 181
   },
   {
     "full_name": "Starcounter-Jack/JSON-Patch",
-    "stargazers_count": 1574,
+    "stargazers_count": 1578,
     "open_issues_count": 60,
     "forks_count": 199
   },
   {
     "full_name": "OWASP/www-project-kubernetes-top-ten",
-    "stargazers_count": 395,
+    "stargazers_count": 398,
     "open_issues_count": 3,
     "forks_count": 53
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 33900,
-    "open_issues_count": 343,
-    "forks_count": 920
+    "stargazers_count": 33917,
+    "open_issues_count": 342,
+    "forks_count": 921
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 15136,
-    "open_issues_count": 74,
-    "forks_count": 479
+    "stargazers_count": 15268,
+    "open_issues_count": 77,
+    "forks_count": 481
   },
   {
     "full_name": "sindresorhus/type-fest",
-    "stargazers_count": 9307,
-    "open_issues_count": 118,
-    "forks_count": 337
+    "stargazers_count": 9336,
+    "open_issues_count": 119,
+    "forks_count": 341
   },
   {
     "full_name": "coryhouse/switchboard",
@@ -73,19 +73,19 @@
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 20806,
-    "open_issues_count": 364,
-    "forks_count": 1641
+    "stargazers_count": 20832,
+    "open_issues_count": 366,
+    "forks_count": 1647
   },
   {
     "full_name": "KabaLabs/Cypress-Recorder",
-    "stargazers_count": 599,
+    "stargazers_count": 601,
     "open_issues_count": 19,
     "forks_count": 76
   },
   {
     "full_name": "customink/lambdakiq",
-    "stargazers_count": 133,
+    "stargazers_count": 142,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 5745,
+    "stargazers_count": 5755,
     "open_issues_count": 106,
     "forks_count": 313
   },
   {
     "full_name": "sergiodxa/remix-utils",
-    "stargazers_count": 951,
+    "stargazers_count": 961,
     "open_issues_count": 3,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "MrLeebo/dnd-5e",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 41574,
+    "stargazers_count": 41626,
     "open_issues_count": 885,
-    "forks_count": 28268
+    "forks_count": 28279
   },
   {
     "full_name": "Skn0tt/rtw",
@@ -146,7 +146,7 @@
   {
     "full_name": "Chevrotain/chevrotain",
     "stargazers_count": 2041,
-    "open_issues_count": 54,
+    "open_issues_count": 55,
     "forks_count": 184
   },
   {
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "naptha/tesseract.js",
-    "stargazers_count": 28579,
+    "stargazers_count": 28623,
     "open_issues_count": 60,
-    "forks_count": 1928
+    "forks_count": 1930
   },
   {
     "full_name": "cypress-io/cypress",
-    "stargazers_count": 41486,
-    "open_issues_count": 2863,
-    "forks_count": 2612
+    "stargazers_count": 41518,
+    "open_issues_count": 2797,
+    "forks_count": 2613
   },
   {
     "full_name": "tailwindlabs/tailwindcss-typography",
     "stargazers_count": 2947,
     "open_issues_count": 4,
-    "forks_count": 208
+    "forks_count": 209
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 96363,
-    "open_issues_count": 1552,
-    "forks_count": 21176
+    "stargazers_count": 96553,
+    "open_issues_count": 1559,
+    "forks_count": 21217
   }
 ]
