@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "zloirock/core-js",
+    "stargazers_count": 18099,
+    "open_issues_count": 26,
+    "forks_count": 1376
+  },
+  {
     "full_name": "OpenAPITools/openapi-generator",
-    "stargazers_count": 15205,
-    "open_issues_count": 3815,
-    "forks_count": 4963
+    "stargazers_count": 15227,
+    "open_issues_count": 3827,
+    "forks_count": 4974
   },
   {
     "full_name": "loancrate/prisma-schema-parser",
@@ -13,7 +19,7 @@
   },
   {
     "full_name": "helmetjs/helmet",
-    "stargazers_count": 9407,
+    "stargazers_count": 9418,
     "open_issues_count": 8,
     "forks_count": 395
   },
@@ -31,57 +37,57 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 14228,
-    "open_issues_count": 44,
-    "forks_count": 596
+    "stargazers_count": 14323,
+    "open_issues_count": 48,
+    "forks_count": 610
   },
   {
     "full_name": "smeijer/next-runtime",
-    "stargazers_count": 586,
+    "stargazers_count": 588,
     "open_issues_count": 12,
     "forks_count": 18
   },
   {
     "full_name": "netlify/next-runtime",
     "stargazers_count": 436,
-    "open_issues_count": 49,
+    "open_issues_count": 50,
     "forks_count": 75
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 2599,
-    "open_issues_count": 47,
-    "forks_count": 200
+    "stargazers_count": 2606,
+    "open_issues_count": 48,
+    "forks_count": 202
   },
   {
     "full_name": "Starcounter-Jack/JSON-Patch",
-    "stargazers_count": 1611,
+    "stargazers_count": 1613,
     "open_issues_count": 66,
     "forks_count": 202
   },
   {
     "full_name": "OWASP/www-project-kubernetes-top-ten",
-    "stargazers_count": 455,
-    "open_issues_count": 8,
-    "forks_count": 62
+    "stargazers_count": 456,
+    "open_issues_count": 6,
+    "forks_count": 65
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 34570,
-    "open_issues_count": 278,
-    "forks_count": 965
+    "stargazers_count": 34591,
+    "open_issues_count": 276,
+    "forks_count": 967
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 21059,
-    "open_issues_count": 78,
-    "forks_count": 709
+    "stargazers_count": 21253,
+    "open_issues_count": 76,
+    "forks_count": 720
   },
   {
     "full_name": "sindresorhus/type-fest",
-    "stargazers_count": 10011,
+    "stargazers_count": 10043,
     "open_issues_count": 124,
-    "forks_count": 375
+    "forks_count": 374
   },
   {
     "full_name": "coryhouse/switchboard",
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "shakacode/react_on_rails",
-    "stargazers_count": 4931,
+    "stargazers_count": 4933,
     "open_issues_count": 21,
-    "forks_count": 616
+    "forks_count": 617
   },
   {
     "full_name": "MrLeebo/wordle-solver",
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 22113,
-    "open_issues_count": 254,
-    "forks_count": 1745
+    "stargazers_count": 22198,
+    "open_issues_count": 261,
+    "forks_count": 1755
   },
   {
     "full_name": "KabaLabs/Cypress-Recorder",
@@ -127,13 +133,13 @@
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 6018,
-    "open_issues_count": 115,
+    "stargazers_count": 6029,
+    "open_issues_count": 117,
     "forks_count": 330
   },
   {
     "full_name": "sergiodxa/remix-utils",
-    "stargazers_count": 1134,
+    "stargazers_count": 1140,
     "open_issues_count": 5,
     "forks_count": 63
   },
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 42737,
-    "open_issues_count": 979,
-    "forks_count": 28662
+    "stargazers_count": 42788,
+    "open_issues_count": 987,
+    "forks_count": 28677
   },
   {
     "full_name": "Skn0tt/rtw",
@@ -172,11 +178,5 @@
     "stargazers_count": 76,
     "open_issues_count": 0,
     "forks_count": 12
-  },
-  {
-    "full_name": "Chevrotain/chevrotain",
-    "stargazers_count": 2097,
-    "open_issues_count": 55,
-    "forks_count": 187
   }
 ]
