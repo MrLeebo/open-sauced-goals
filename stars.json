@@ -1,20 +1,20 @@
 [
   {
     "full_name": "pola-rs/nodejs-polars",
-    "stargazers_count": 94,
+    "stargazers_count": 93,
     "open_issues_count": 14,
     "forks_count": 12
   },
   {
     "full_name": "ankane/polars-ruby",
-    "stargazers_count": 515,
+    "stargazers_count": 517,
     "open_issues_count": 1,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "Shopify/ruby-lsp",
-    "stargazers_count": 635,
-    "open_issues_count": 54,
+    "stargazers_count": 643,
+    "open_issues_count": 55,
     "forks_count": 23
   },
   {
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "zloirock/core-js",
-    "stargazers_count": 21782,
+    "stargazers_count": 21872,
     "open_issues_count": 30,
-    "forks_count": 1605
+    "forks_count": 1609
   },
   {
     "full_name": "OpenAPITools/openapi-generator",
-    "stargazers_count": 15531,
-    "open_issues_count": 3890,
-    "forks_count": 5071
+    "stargazers_count": 15575,
+    "open_issues_count": 3877,
+    "forks_count": 5081
   },
   {
     "full_name": "loancrate/prisma-schema-parser",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "helmetjs/helmet",
-    "stargazers_count": 9454,
-    "open_issues_count": 9,
-    "forks_count": 397
+    "stargazers_count": 9471,
+    "open_issues_count": 10,
+    "forks_count": 398
   },
   {
     "full_name": "scoutapp/ruby_server_timing",
@@ -61,26 +61,26 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 15246,
-    "open_issues_count": 28,
-    "forks_count": 664
+    "stargazers_count": 15360,
+    "open_issues_count": 31,
+    "forks_count": 670
   },
   {
     "full_name": "smeijer/next-runtime",
-    "stargazers_count": 591,
+    "stargazers_count": 588,
     "open_issues_count": 12,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "netlify/next-runtime",
     "stargazers_count": 444,
-    "open_issues_count": 63,
-    "forks_count": 78
+    "open_issues_count": 62,
+    "forks_count": 79
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 2695,
-    "open_issues_count": 46,
+    "stargazers_count": 2712,
+    "open_issues_count": 44,
     "forks_count": 210
   },
   {
@@ -91,26 +91,26 @@
   },
   {
     "full_name": "OWASP/www-project-kubernetes-top-ten",
-    "stargazers_count": 471,
+    "stargazers_count": 472,
     "open_issues_count": 2,
     "forks_count": 70
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 34802,
-    "open_issues_count": 291,
-    "forks_count": 982
+    "stargazers_count": 34840,
+    "open_issues_count": 296,
+    "forks_count": 986
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 22617,
-    "open_issues_count": 90,
-    "forks_count": 776
+    "stargazers_count": 22798,
+    "open_issues_count": 86,
+    "forks_count": 782
   },
   {
     "full_name": "sindresorhus/type-fest",
-    "stargazers_count": 10284,
-    "open_issues_count": 131,
+    "stargazers_count": 10318,
+    "open_issues_count": 127,
     "forks_count": 379
   },
   {
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "shakacode/react_on_rails",
-    "stargazers_count": 4941,
-    "open_issues_count": 19,
+    "stargazers_count": 4942,
+    "open_issues_count": 18,
     "forks_count": 621
   },
   {
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 22593,
-    "open_issues_count": 382,
-    "forks_count": 1803
+    "stargazers_count": 22629,
+    "open_issues_count": 381,
+    "forks_count": 1808
   },
   {
     "full_name": "KabaLabs/Cypress-Recorder",
-    "stargazers_count": 614,
+    "stargazers_count": 616,
     "open_issues_count": 22,
     "forks_count": 78
   },
@@ -151,19 +151,19 @@
   },
   {
     "full_name": "customink/lamby",
-    "stargazers_count": 494,
-    "open_issues_count": 5,
+    "stargazers_count": 497,
+    "open_issues_count": 4,
     "forks_count": 24
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 6102,
+    "stargazers_count": 6112,
     "open_issues_count": 126,
     "forks_count": 337
   },
   {
     "full_name": "sergiodxa/remix-utils",
-    "stargazers_count": 1270,
+    "stargazers_count": 1273,
     "open_issues_count": 6,
     "forks_count": 70
   },
