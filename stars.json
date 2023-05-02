@@ -1,9 +1,9 @@
 [
   {
     "full_name": "heterodb/pg-strom",
-    "stargazers_count": 1158,
+    "stargazers_count": 1161,
     "open_issues_count": 59,
-    "forks_count": 148
+    "forks_count": 149
   },
   {
     "full_name": "scoutapp/scout_apm_ruby",
@@ -13,33 +13,33 @@
   },
   {
     "full_name": "mcollina/autocannon",
-    "stargazers_count": 6850,
-    "open_issues_count": 45,
+    "stargazers_count": 6860,
+    "open_issues_count": 44,
     "forks_count": 314
   },
   {
     "full_name": "bcicen/ctop",
-    "stargazers_count": 14225,
+    "stargazers_count": 14234,
     "open_issues_count": 92,
-    "forks_count": 523
+    "forks_count": 522
   },
   {
     "full_name": "pola-rs/nodejs-polars",
     "stargazers_count": 121,
-    "open_issues_count": 19,
+    "open_issues_count": 18,
     "forks_count": 16
   },
   {
     "full_name": "ankane/polars-ruby",
-    "stargazers_count": 546,
+    "stargazers_count": 548,
     "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "Shopify/ruby-lsp",
-    "stargazers_count": 790,
-    "open_issues_count": 60,
-    "forks_count": 34
+    "stargazers_count": 800,
+    "open_issues_count": 62,
+    "forks_count": 37
   },
   {
     "full_name": "maladr0it/react-truncate-list",
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "zloirock/core-js",
-    "stargazers_count": 22252,
+    "stargazers_count": 22272,
     "open_issues_count": 37,
-    "forks_count": 1630
+    "forks_count": 1635
   },
   {
     "full_name": "OpenAPITools/openapi-generator",
-    "stargazers_count": 16227,
-    "open_issues_count": 4014,
-    "forks_count": 5242
+    "stargazers_count": 16261,
+    "open_issues_count": 4036,
+    "forks_count": 5249
   },
   {
     "full_name": "loancrate/prisma-schema-parser",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "helmetjs/helmet",
-    "stargazers_count": 9546,
+    "stargazers_count": 9553,
     "open_issues_count": 6,
     "forks_count": 399
   },
@@ -85,25 +85,25 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 16962,
-    "open_issues_count": 38,
-    "forks_count": 743
+    "stargazers_count": 17090,
+    "open_issues_count": 39,
+    "forks_count": 744
   },
   {
     "full_name": "smeijer/next-runtime",
-    "stargazers_count": 589,
+    "stargazers_count": 590,
     "open_issues_count": 12,
     "forks_count": 18
   },
   {
     "full_name": "netlify/next-runtime",
     "stargazers_count": 457,
-    "open_issues_count": 54,
+    "open_issues_count": 52,
     "forks_count": 81
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 2898,
+    "stargazers_count": 2910,
     "open_issues_count": 37,
     "forks_count": 225
   },
@@ -115,27 +115,27 @@
   },
   {
     "full_name": "OWASP/www-project-kubernetes-top-ten",
-    "stargazers_count": 488,
+    "stargazers_count": 490,
     "open_issues_count": 3,
     "forks_count": 74
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 35193,
-    "open_issues_count": 315,
-    "forks_count": 1004
+    "stargazers_count": 35214,
+    "open_issues_count": 319,
+    "forks_count": 1005
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 24976,
-    "open_issues_count": 101,
-    "forks_count": 852
+    "stargazers_count": 25101,
+    "open_issues_count": 107,
+    "forks_count": 856
   },
   {
     "full_name": "sindresorhus/type-fest",
-    "stargazers_count": 10784,
-    "open_issues_count": 141,
-    "forks_count": 402
+    "stargazers_count": 10837,
+    "open_issues_count": 140,
+    "forks_count": 405
   },
   {
     "full_name": "coryhouse/switchboard",
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "shakacode/react_on_rails",
-    "stargazers_count": 4951,
-    "open_issues_count": 17,
+    "stargazers_count": 4953,
+    "open_issues_count": 16,
     "forks_count": 622
   },
   {
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 23234,
-    "open_issues_count": 352,
-    "forks_count": 1895
+    "stargazers_count": 23255,
+    "open_issues_count": 331,
+    "forks_count": 1901
   },
   {
     "full_name": "KabaLabs/Cypress-Recorder",
@@ -168,15 +168,15 @@
     "forks_count": 80
   },
   {
-    "full_name": "customink/lambdakiq",
+    "full_name": "rails-lambda/lambdakiq",
     "stargazers_count": 162,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
-    "full_name": "customink/lamby",
-    "stargazers_count": 505,
-    "open_issues_count": 8,
+    "full_name": "rails-lambda/lamby",
+    "stargazers_count": 506,
+    "open_issues_count": 9,
     "forks_count": 24
   }
 ]
