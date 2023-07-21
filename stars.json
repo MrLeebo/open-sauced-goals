@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "tobyscott25/typescript-microfrontend-poc",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "antonk52/lilconfig",
     "stargazers_count": 113,
     "open_issues_count": 1,
@@ -7,39 +13,39 @@
   },
   {
     "full_name": "jnunemaker/flipper",
-    "stargazers_count": 3317,
-    "open_issues_count": 23,
+    "stargazers_count": 3319,
+    "open_issues_count": 22,
     "forks_count": 391
   },
   {
     "full_name": "module-federation/module-federation-examples",
-    "stargazers_count": 4485,
+    "stargazers_count": 4487,
     "open_issues_count": 92,
     "forks_count": 1489
   },
   {
     "full_name": "module-federation/universe",
-    "stargazers_count": 596,
-    "open_issues_count": 57,
-    "forks_count": 93
+    "stargazers_count": 598,
+    "open_issues_count": 47,
+    "forks_count": 95
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 22119,
-    "open_issues_count": 519,
-    "forks_count": 1488
+    "stargazers_count": 22147,
+    "open_issues_count": 511,
+    "forks_count": 1489
   },
   {
     "full_name": "bevyengine/bevy",
-    "stargazers_count": 24882,
-    "open_issues_count": 1561,
-    "forks_count": 2498
+    "stargazers_count": 24933,
+    "open_issues_count": 1571,
+    "forks_count": 2504
   },
   {
     "full_name": "bevyengine/bevy-assets",
-    "stargazers_count": 824,
+    "stargazers_count": 826,
     "open_issues_count": 5,
-    "forks_count": 157
+    "forks_count": 158
   },
   {
     "full_name": "janhohenheim/foxtrot",
@@ -49,45 +55,45 @@
   },
   {
     "full_name": "heterodb/pg-strom",
-    "stargazers_count": 1183,
-    "open_issues_count": 14,
+    "stargazers_count": 1185,
+    "open_issues_count": 12,
     "forks_count": 150
   },
   {
     "full_name": "scoutapp/scout_apm_ruby",
     "stargazers_count": 176,
     "open_issues_count": 33,
-    "forks_count": 84
+    "forks_count": 85
   },
   {
     "full_name": "mcollina/autocannon",
-    "stargazers_count": 7048,
-    "open_issues_count": 43,
+    "stargazers_count": 7058,
+    "open_issues_count": 44,
     "forks_count": 318
   },
   {
     "full_name": "bcicen/ctop",
-    "stargazers_count": 14438,
+    "stargazers_count": 14464,
     "open_issues_count": 94,
     "forks_count": 528
   },
   {
     "full_name": "pola-rs/nodejs-polars",
-    "stargazers_count": 149,
-    "open_issues_count": 21,
+    "stargazers_count": 150,
+    "open_issues_count": 20,
     "forks_count": 20
   },
   {
     "full_name": "ankane/polars-ruby",
-    "stargazers_count": 589,
+    "stargazers_count": 591,
     "open_issues_count": 2,
     "forks_count": 13
   },
   {
     "full_name": "Shopify/ruby-lsp",
-    "stargazers_count": 897,
-    "open_issues_count": 59,
-    "forks_count": 52
+    "stargazers_count": 901,
+    "open_issues_count": 58,
+    "forks_count": 53
   },
   {
     "full_name": "maladr0it/react-truncate-list",
@@ -97,15 +103,15 @@
   },
   {
     "full_name": "zloirock/core-js",
-    "stargazers_count": 22634,
+    "stargazers_count": 22658,
     "open_issues_count": 38,
-    "forks_count": 1647
+    "forks_count": 1649
   },
   {
     "full_name": "OpenAPITools/openapi-generator",
-    "stargazers_count": 17023,
-    "open_issues_count": 4145,
-    "forks_count": 5433
+    "stargazers_count": 17062,
+    "open_issues_count": 4161,
+    "forks_count": 5445
   },
   {
     "full_name": "loancrate/prisma-schema-parser",
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 18622,
-    "open_issues_count": 40,
-    "forks_count": 803
+    "stargazers_count": 18677,
+    "open_issues_count": 39,
+    "forks_count": 807
   },
   {
     "full_name": "smeijer/next-runtime",
@@ -145,15 +151,15 @@
   },
   {
     "full_name": "netlify/next-runtime",
-    "stargazers_count": 493,
-    "open_issues_count": 53,
+    "stargazers_count": 496,
+    "open_issues_count": 56,
     "forks_count": 83
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 3237,
-    "open_issues_count": 53,
-    "forks_count": 287
+    "stargazers_count": 3254,
+    "open_issues_count": 54,
+    "forks_count": 289
   },
   {
     "full_name": "Starcounter-Jack/JSON-Patch",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "OWASP/www-project-kubernetes-top-ten",
-    "stargazers_count": 511,
+    "stargazers_count": 512,
     "open_issues_count": 1,
     "forks_count": 78
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 35669,
-    "open_issues_count": 301,
-    "forks_count": 1030
-  },
-  {
-    "full_name": "trpc/trpc",
-    "stargazers_count": 27208,
-    "open_issues_count": 86,
-    "forks_count": 940
+    "stargazers_count": 35689,
+    "open_issues_count": 310,
+    "forks_count": 1033
   }
 ]
