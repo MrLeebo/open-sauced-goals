@@ -1,19 +1,19 @@
 [
   {
     "full_name": "acacode/swagger-typescript-api",
-    "stargazers_count": 2204,
-    "open_issues_count": 172,
+    "stargazers_count": 2213,
+    "open_issues_count": 173,
     "forks_count": 278
   },
   {
     "full_name": "ts-rest/ts-rest",
-    "stargazers_count": 1057,
-    "open_issues_count": 35,
-    "forks_count": 38
+    "stargazers_count": 1137,
+    "open_issues_count": 33,
+    "forks_count": 39
   },
   {
     "full_name": "macstr1k3r/trpc-nestjs-adapter",
-    "stargazers_count": 90,
+    "stargazers_count": 91,
     "open_issues_count": 3,
     "forks_count": 7
   },
@@ -31,39 +31,39 @@
   },
   {
     "full_name": "flippercloud/flipper",
-    "stargazers_count": 3325,
-    "open_issues_count": 15,
+    "stargazers_count": 3327,
+    "open_issues_count": 16,
     "forks_count": 393
   },
   {
     "full_name": "module-federation/module-federation-examples",
-    "stargazers_count": 4520,
+    "stargazers_count": 4534,
     "open_issues_count": 95,
     "forks_count": 1500
   },
   {
     "full_name": "module-federation/universe",
-    "stargazers_count": 623,
-    "open_issues_count": 41,
-    "forks_count": 97
+    "stargazers_count": 627,
+    "open_issues_count": 42,
+    "forks_count": 98
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 22309,
-    "open_issues_count": 531,
-    "forks_count": 1492
+    "stargazers_count": 22356,
+    "open_issues_count": 528,
+    "forks_count": 1495
   },
   {
     "full_name": "bevyengine/bevy",
-    "stargazers_count": 25151,
-    "open_issues_count": 1573,
-    "forks_count": 2538
+    "stargazers_count": 25196,
+    "open_issues_count": 1579,
+    "forks_count": 2540
   },
   {
     "full_name": "bevyengine/bevy-assets",
-    "stargazers_count": 831,
+    "stargazers_count": 832,
     "open_issues_count": 6,
-    "forks_count": 161
+    "forks_count": 164
   },
   {
     "full_name": "janhohenheim/foxtrot",
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "heterodb/pg-strom",
-    "stargazers_count": 1193,
-    "open_issues_count": 13,
+    "stargazers_count": 1194,
+    "open_issues_count": 12,
     "forks_count": 151
   },
   {
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "mcollina/autocannon",
-    "stargazers_count": 7091,
-    "open_issues_count": 45,
+    "stargazers_count": 7095,
+    "open_issues_count": 43,
     "forks_count": 322
   },
   {
     "full_name": "bcicen/ctop",
-    "stargazers_count": 14501,
+    "stargazers_count": 14518,
     "open_issues_count": 95,
     "forks_count": 529
   },
   {
     "full_name": "pola-rs/nodejs-polars",
-    "stargazers_count": 154,
-    "open_issues_count": 19,
-    "forks_count": 23
+    "stargazers_count": 156,
+    "open_issues_count": 17,
+    "forks_count": 25
   },
   {
     "full_name": "ankane/polars-ruby",
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "Shopify/ruby-lsp",
-    "stargazers_count": 922,
-    "open_issues_count": 57,
+    "stargazers_count": 920,
+    "open_issues_count": 50,
     "forks_count": 55
   },
   {
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "zloirock/core-js",
-    "stargazers_count": 22727,
-    "open_issues_count": 35,
-    "forks_count": 1650
+    "stargazers_count": 22746,
+    "open_issues_count": 34,
+    "forks_count": 1652
   },
   {
     "full_name": "OpenAPITools/openapi-generator",
-    "stargazers_count": 17202,
-    "open_issues_count": 4183,
-    "forks_count": 5487
+    "stargazers_count": 17234,
+    "open_issues_count": 4180,
+    "forks_count": 5504
   },
   {
     "full_name": "loancrate/prisma-schema-parser",
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "helmetjs/helmet",
-    "stargazers_count": 9684,
+    "stargazers_count": 9689,
     "open_issues_count": 1,
     "forks_count": 401
   },
   {
     "full_name": "scoutapp/ruby_server_timing",
-    "stargazers_count": 518,
+    "stargazers_count": 517,
     "open_issues_count": 1,
     "forks_count": 9
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 18884,
-    "open_issues_count": 41,
-    "forks_count": 814
+    "stargazers_count": 18938,
+    "open_issues_count": 44,
+    "forks_count": 819
   },
   {
     "full_name": "smeijer/next-runtime",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "netlify/next-runtime",
-    "stargazers_count": 506,
-    "open_issues_count": 55,
+    "stargazers_count": 508,
+    "open_issues_count": 56,
     "forks_count": 86
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 3331,
-    "open_issues_count": 45,
-    "forks_count": 291
+    "stargazers_count": 3343,
+    "open_issues_count": 50,
+    "forks_count": 290
   }
 ]
